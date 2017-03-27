@@ -64,6 +64,8 @@ public class FoodFragment extends Fragment {
                 Intent intent = new Intent(view.getContext(), InformationPage.class);
                 String messageOut = placeToVisit.get(position).getAdditionalInformation();
                 intent.putExtra("message", messageOut);
+                String placeName = placeToVisit.get(position).getPlaceName();
+                intent.putExtra("placeName", placeName);
                 startActivity(intent);
             }
         });

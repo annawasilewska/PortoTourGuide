@@ -9,8 +9,6 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
 
-import static android.R.id.message;
-
 public class InformationPage extends AppCompatActivity {
 
     @Override

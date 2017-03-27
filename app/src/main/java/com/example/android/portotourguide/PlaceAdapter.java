@@ -29,7 +29,6 @@ public class PlaceAdapter extends ArrayAdapter<PlaceToVisit> {
         mColorResourceID = colorResourceID;
     }
 
-
     @Override
     public View getView(int position, View convertView, ViewGroup parent) {
         // Check if the existing view is being reused, otherwise inflate the view
@@ -53,8 +52,6 @@ public class PlaceAdapter extends ArrayAdapter<PlaceToVisit> {
         // Get the version number from the current AndroidFlavor object and
         // set this text on the number TextView
         defaultWord.setText(currentPlaceToVisit.getPlaceName());
-
-        //mPlayer = MediaPlayer.create(this, R.raw.number_one);
 
         // Find the ImageView in the list_item.xml layout with the ID image
         ImageView iconView = (ImageView) listItemView.findViewById(R.id.image);

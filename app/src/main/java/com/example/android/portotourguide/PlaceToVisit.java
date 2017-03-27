@@ -22,7 +22,6 @@ public class PlaceToVisit {
         mPlaceName = placeName;
         mPlaceAddress = placeAddress;
         mAdditionalInformation = additionalInformation;
-
     }
 
     public PlaceToVisit(String placeName, String placeAddress, String additionalInformation, int imageResourceID) {

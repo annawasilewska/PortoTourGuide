@@ -7,6 +7,9 @@
     <string name="title_food">Food</string>
     <string name="title_dance">Dance</string>
 
+    <!-- Button -->
+    <string name="map">Map</string>
+
     <!-- Names -->
     <string name="monumento_garrett">Monumento Almeida Garrett</string>
     <string name="cathedral_porto">Cathedral of Porto</string>
@@ -44,26 +47,26 @@
     <string name="chocolataria_das_flores">Chocolataria das Flores</string>
 
     <!-- Addresses -->
-    <string name="address_monumento_garrett">Address 1</string>
-    <string name="address_cathedral_porto">Address 2</string>
-    <string name="address_city_hall">Address 3</string>
-    <string name="address_stock_exchange_palace">Address 4</string>
-    <string name="address_bolhao_market">Address 5</string>
-    <string name="address_crystal_palace">Address 6</string>
-    <string name="address_sao_bento_station">Address 7</string>
-    <string name="address_santa_catarina_street">Address 8</string>
-    <string name="address_clerigos_tower">Address 9</string>
-    <string name="address_dom_luis">Address 10</string>
-    <string name="address_avenida_dos_aliados">Address 11</string>
-    <string name="address_lello_bookshop">Address 12</string>
-    <string name="address_house_of_music">Address 13</string>
-    <string name="address_castelo_do_queijo">Address 14</string>
-    <string name="address_capela_das_almas">Address 15</string>
-    <string name="address_world_of_discoveries">Address 16</string>
-    <string name="address_porto_city_park">Address 17</string>
-    <string name="address_praia_da_luz">Address 18</string>
-    <string name="address_fortaleza_de_sao_joao">Address 19</string>
-    <string name="address_farol_de_felgueiras">Address 20</string>
+    <string name="address_monumento_garrett">Av. dos Aliados 291,\n4000–035 Porto, Portugal</string>
+    <string name="address_cathedral_porto">Terreiro da Sé,\n4050–573 Porto, Portugal</string>
+    <string name="address_city_hall">R. Dr. António Luís Gomes 22–320,\n4000–010 Porto, Portugal</string>
+    <string name="address_stock_exchange_palace">R. de Ferreira Borges,\n4050–253 Porto, Portugal</string>
+    <string name="address_bolhao_market">R. Formosa 214,\n4000 Porto, Portugal</string>
+    <string name="address_crystal_palace">4050–101 Porto, Portugal</string>
+    <string name="address_sao_bento_station">Praça de Almeida Garrett,\n4000–069 Porto, Portugal</string>
+    <string name="address_santa_catarina_street">Rua de Santa Catarina,\nPorto, Portugal</string>
+    <string name="address_clerigos_tower">R. de São Filipe de Nery,\n4050–546 Porto, Portugal</string>
+    <string name="address_dom_luis">Ponte Luís I,\nPorto, Portugal</string>
+    <string name="address_avenida_dos_aliados">Av. dos Aliados,\nPorto, Portugal</string>
+    <string name="address_lello_bookshop">R. das Carmelitas 144,\n4050–161 Porto, Portugal</string>
+    <string name="address_house_of_music">Av. da Boavista 604–610,\n4149–071 Porto, Portugal</string>
+    <string name="address_castelo_do_queijo">Praça de Gonçalves Zarco,\n4100–274 Porto, Portugal</string>
+    <string name="address_capela_das_almas">Rua de Santa Catarina 428,\n4000–444 Porto, Portugal</string>
+    <string name="address_world_of_discoveries">Rua de Miragaia 106,\n4050–386 Porto, Portugal</string>
+    <string name="address_porto_city_park">Av. da Boavista,\nPorto, Portugal</string>
+    <string name="address_praia_da_luz">4150–151 Porto, Portugal</string>
+    <string name="address_fortaleza_de_sao_joao">Foz do D\'Ouro,\n4150–196 Porto, Portugal</string>
+    <string name="address_farol_de_felgueiras">Jardim do Passeio Alegre,\nPorto, Portugal</string>
 
     <string name="address_club_musica">Rua da Restauracao 39, \nPorto 4050–503, Portugal</string>
     <string name="address_twiggy_events_pub">Rua do Bolhao 193, \nPorto 4000–111, Portugal</string>

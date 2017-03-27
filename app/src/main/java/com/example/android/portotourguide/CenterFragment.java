@@ -1,6 +1,5 @@
 package com.example.android.portotourguide;
 
-
 import android.content.Intent;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
@@ -21,7 +20,6 @@ public class CenterFragment extends Fragment {
     public CenterFragment() {
         // Required empty public constructor
     }
-
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
@@ -47,7 +45,6 @@ public class CenterFragment extends Fragment {
         placeToVisit.add(new PlaceToVisit(getString(R.string.house_of_music), getString(R.string.address_house_of_music), getString(R.string.info_house_of_music), R.drawable.dom_luis));
         placeToVisit.add(new PlaceToVisit(getString(R.string.capela_das_almas), getString(R.string.address_capela_das_almas), getString(R.string.info_capela_das_almas), R.drawable.dom_luis));
         placeToVisit.add(new PlaceToVisit(getString(R.string.world_of_discoveries), getString(R.string.address_world_of_discoveries), getString(R.string.info_world_of_discoveries), R.drawable.dom_luis));
-
 
         // Create an {@link WordAdapter}, whose data source is a list of {@link Word}s. The
         // adapter knows how to create list items for each item in the list.

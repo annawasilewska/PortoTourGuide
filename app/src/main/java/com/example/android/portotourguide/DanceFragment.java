@@ -40,7 +40,6 @@ public class DanceFragment extends Fragment {
         placeToVisit.add(new PlaceToVisit(getString(R.string.twiggy_events_pub), getString(R.string.address_twiggy_events_pub), getString(R.string.info_twiggy_events_pub)));
         placeToVisit.add(new PlaceToVisit(getString(R.string.cave_45), getString(R.string.address_cave_45), getString(R.string.info_cave_45)));
         placeToVisit.add(new PlaceToVisit(getString(R.string.boulevard), getString(R.string.address_boulevard), getString(R.string.info_boulevard)));
-        placeToVisit.add(new PlaceToVisit(getString(R.string.oporto_dancehall), getString(R.string.address_oporto_dancehall), getString(R.string.info_oporto_dancehall)));
 
         // Create an {@link WordAdapter}, whose data source is a list of {@link Word}s. The
         // adapter knows how to create list items for each item in the list.

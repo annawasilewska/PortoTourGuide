@@ -1,0 +1,429 @@
+<resources>
+    <string name="app_name">Porto Tour Guide</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_center">Center</string>
+    <string name="title_shore">Shore</string>
+    <string name="title_food">Food</string>
+    <string name="title_dance">Dance</string>
+
+    <!-- Names -->
+    <string name="monumento_garrett">Monument to Almeida Garrett</string>
+    <string name="cathedral_porto">Cathedral of Porto</string>
+    <string name="city_hall">City Hall</string>
+    <string name="stock_exchange_palace">Stock Exchange Palace</string>
+    <string name="bolhao_market">Bolhao Market</string>
+    <string name="crystal_palace">Crystal Palace</string>
+    <string name="sao_bento_station">Sao Bento Railway Station</string>
+    <string name="santa_catarina_street">Santa Catarina Street</string>
+    <string name="clerigos_tower">Clerigos Tower</string>
+    <string name="dom_luis">Dom Luis I Bridge</string>
+    <string name="avenida_dos_aliados">Avenida dos Aliados</string>
+    <string name="lello_bookshop">Lello Bookshop</string>
+    <string name="house_of_music">House of Music</string>
+    <string name="castelo_do_queijo">Castelo do Queijo</string>
+    <string name="capela_das_almas">Capela das Almas</string>
+    <string name="world_of_discoveries">World of Discoveries. Interactive Museum and Theme Park</string>
+    <string name="porto_city_park">Porto City Park</string>
+    <string name="praia_da_luz">Praia da Luz</string>
+    <string name="fortaleza_de_sao_joao">Fortaleza de Sao Joao da Foz</string>
+    <string name="farol_de_felgueiras">Farol de Felgueiras</string>
+
+    <string name="club_musica_80">Club Musica 80’</string>
+    <string name="twiggy_events_pub">Twiggy Events Pub</string>
+    <string name="cave_45">Cave 45</string>
+    <string name="boulevard">Boulevard</string>
+    <string name="oporto_dancehall">Oporto Dancehall</string>
+
+    <string name="sandeira_do_porto">A Sandeira do Porto</string>
+    <string name="nata_lisboa_catarina">Nata Lisboa</string>
+    <string name="nata_lisboa_flores">Nata Lisboa</string>
+    <string name="la_copa">La Copa</string>
+    <string name="miss_pavlova">Miss Pavlova</string>
+    <string name="praia_da_luz_cafe">Praia da Luz Restaurant</string>
+    <string name="tentacoes_no_prato">Tentacoes no Prato</string>
+    <string name="chocolataria_das_flores">Chocolataria das Flores</string>
+
+    <!-- Addresses -->
+    <string name="address_monumento_garrett">Address 1</string>
+    <string name="address_cathedral_porto">Address 2</string>
+    <string name="address_city_hall">Address 3</string>
+    <string name="address_stock_exchange_palace">Address 4</string>
+    <string name="address_bolhao_market">Address 5</string>
+    <string name="address_crystal_palace">Address 6</string>
+    <string name="address_sao_bento_station">Address 7</string>
+    <string name="address_santa_catarina_street">Address 8</string>
+    <string name="address_clerigos_tower">Address 9</string>
+    <string name="address_dom_luis">Address 10</string>
+    <string name="address_avenida_dos_aliados">Address 11</string>
+    <string name="address_lello_bookshop">Address 12</string>
+    <string name="address_house_of_music">Address 13</string>
+    <string name="address_castelo_do_queijo">Address 14</string>
+    <string name="address_capela_das_almas">Address 15</string>
+    <string name="address_world_of_discoveries">Address 16</string>
+    <string name="address_porto_city_park">Address 17</string>
+    <string name="address_praia_da_luz">Address 18</string>
+    <string name="address_fortaleza_de_sao_joao">Address 19</string>
+    <string name="address_farol_de_felgueiras">Address 20</string>
+
+    <string name="address_club_musica">Rua da Restauracao 39, \nPorto 4050–503, Portugal</string>
+    <string name="address_twiggy_events_pub">Rua do Bolhao 193, \nPorto 4000–111, Portugal</string>
+    <string name="address_cave_45">Rua Oliveiras 45, \nPorto 4050–449, Portugal</string>
+    <string name="address_boulevard">Avenida dos Aliados 62, \nPorto 4000–064, Portugal</string>
+    <string name="address_oporto_dancehall">Mercado Ferreira Borges, \nPorto 4050–252, Portugal</string>
+
+    <string name="address_sandeira_do_porto">Rua dos Caldeireiros 85, \nPorto 4050–140, Portugal</string>
+    <string name="address_nata_lisboa_catarina">Rua de Santa Catarina 499, \nPorto 4000–452, Portugal</string>
+    <string name="address_nata_lisboa_flores">Rua Flores 291, \nPorto 4050–267, Portugal</string>
+    <string name="address_la_copa">Avenida Rodrigues de Freitas 366, \nPorto 4000–419, Portugal</string>
+    <string name="address_miss_pavlova">Rua Do Almada 13, \nPorto 4050–036, Portugal</string>
+    <string name="address_praia_da_luz_cafe">Avenida Brasil, \nFoz, Porto, Portugal</string>
+    <string name="address_tentacoes_no_prato">Rua Senhora da Luz 97, \nPorto 4150–696, Portugal</string>
+    <string name="address_chocolataria_das_flores">Rua Flores 121, \nPorto 4050–266, Portugal</string>
+
+    <!-- Details about objects -->
+    <string name="info_monumento_garrett"> <![CDATA[ <b>Monument to Almeida Garrett</b><br/><br/>
+        In front of the Porto City Hall, the plaza General Humberto Delgado.]]></string>
+    <string name="info_cathedral_porto"><![CDATA[ <b>Cathedral of Porto</b><br/><br/>
+        <b>Address:</b><br/>
+        Terreiro da Sé,<br/>
+        4050-573 Porto<br/><br/>
+        <b>Price:</b><br/>
+        Access to the church: Free<br/>
+        Access to the Cloisters: 3,00€<br/><br/>
+        The Cathedral of Porto is a Romanesque church built in the twelfth and thirteenth centuries.]]></string>
+    <string name="info_city_hall"><![CDATA[ <b>City Hall</b><br/><br/>
+        <b>Address:</b><br/>
+        Praça General Humberto Delgado,<br/>
+        4049-001 Porto<br/><br/>
+        <b>Schedule:</b><br/>
+        Guided visit on first Sunday of each month.<br/><br/>
+        <b>Price:</b><br/>
+        Guided visit: 2,00€<br/><br/>
+        The City Hall building was designed by the architect Correia da Silva and it\'s construction began in 1920.
+        It\'s tower is 70 meters high, and people can climb it\'s 180 steps to see the view and the carillon clock.
+        Inside the monumental granite building, there are nobly furnished rooms and several elements in marble.
+        In the lobby, it is worth appreciating the romantic style paintings that decorate the ceiling
+        and the two marble statues representing female figures by Henrique Moreira, called “Art” and “Industry”.]]></string>
+    <string name="info_stock_exchange_palace"><![CDATA[ <b>Stock Exchange Palace</b><br/><br/>
+        <b>Address:</b><br/>
+        Rua Ferreira Borges <br/>
+        4050-253 Porto<br/><br/>
+        <b>Schedule:</b><br/>
+        November to March:<br/>
+        9h00 to 12h30 and 14h00 to 17h30.<br/>
+        April to October:<br/>
+        9h00 to 18h30.<br/><br/>
+        <b>Price:</b><br/>
+        Guided visit: 4,00€ to 7,00€.<br/>
+        Packages that include wine tasting, live fado, visit the wine cellars of Porto and boat or bus trip: 5,00€ to 21,00€.<br/><br/>
+        Built between 1842 and 1910, the Stock Exchange Palace is one of the most beautiful buildings of the city
+        and the home (and property) of the Commercial Association of Porto (Porto Chamber of Commerce), which was founded in 1934.
+        The guided tours last 30 minutes and begin in the Hall of Nations, which is where the ruins of the former cloister of the Convent of St. Francisco once stood.]]></string>
+    <string name="info_bolhao_market">Bolhao Market<br/><br/>
+        Address:<br/>
+        Rua Formosa,<br/>
+        4000-214 Porto<br/><br/>
+        Schedule:<br/>
+        Monday to Friday:<br/>
+        7h00 to 17h00.<br/>
+        Saturday:<br/>
+        7h00 to 13h00.<br/><br/>
+        The Bolhão Market is one of the most remarkable buildings of the center of Porto and the most iconic market of the city.
+        The market dates back to 1850 and the current building, designed by the architect António Correia da Silva, was inaugurated in 1914.
+</string>
+    <string name="info_crystal_palace">Crystal Palace<br/><br/>
+        Address:<br/>
+        Rua de D. Manuel II,<br/>
+        4050-346 Porto<br/>
+        Schedule:<br/>
+        April to September:<br/>
+        8h00 to 21h00.<br/>
+        October to March:<br/>
+        8h00 to 19h00.<br/><br/>
+        It is one of the most iconic green spaces of the city and includes the gardens of the Crystal Palace (built in the 1860s with granite, iron and glass),
+        the Pavilion Rosa Mota (that replaced the Palace in 1956), the Quinta of the Macieirinha (where the Romantic Museum is located), and the Quinta Tait.
+        The romantic gardens, designed by architect Émile David are spread over 8 acres of exotic rare plants, large trees, rose gardens, fountains,
+        a lake with ducks and swans, and a cafeteria with a terrace where proud peacocks surprise visitors. Offering breathtaking panoramic views of the Douro River and the sea,
+        the gardens are still the home of the Almeida Garrett Municipal Library and of the Municipal Gallery of Porto.</string>
+    <string name="info_sao_bento_station">Sao Bento Railway Station\n\n
+        Address:\n
+        Praça de Almeida Garrett,\n
+        4000-069 Porto\n\n
+        Schedule:\n
+        Sunday to Saturday:\n
+        5h00 to 1h00.\n\n
+        The São Bento Railway Station is an early twentieth century building that is worth a visit,
+        but not just for its architecture by the architect Marques da Silva, who also designed other important works of the city.
+        It features a glass and cast iron roof, but its centerpiece is the remarkable set of 20 000 painted tiles that covers the lobby of the station by the painter Jorge Colaço.
+        The murals illustrate the evolution of transports as well as scenes from Portuguese life and history. </string>
+    <string name="info_santa_catarina_street">Santa Catarina Street\n\n
+        Santa Catarina Street, with a length of 1,500 meters, is known as the commercial artery of the city.
+        In particular it\'s pedestrianized section, which has a bit of everything from fashion and footwear stores to restaurants and cafes,
+        you can also expect to see gourmet products and even tattoo studios.</string>
+    <string name="info_clerigos_tower">Clerigos Tower\n\n
+        Address:\n
+        Rua São Filipe Nery,\n
+        4050-546 Porto\n\n
+        Schedule:\n
+        Sunday to Saturday:\n
+        9h00 to 19h00.\n\n
+        Price:\n
+        Access to the church: Free.\n
+        Regular ticket to access the tower + exposition: 3,00€\n
+        Porto card to access the tower: 1,50€\n
+        School visits to access the tower: 1,50€ (per person)\n
+        Clergy, scouts and children under 10 years-old to access the tower: Free\n\n
+        The Clérigos Tower was built between 1754 and 1763 by Nicolau Nasoni and is one of the landmarks of Porto.
+        In 1731, the Brotherhood of the Clérigos (Clergymen) decided to build this remarkable building for religious worship.
+        The tower, whose 250th anniversary was marked with pomp and circumstance in 2013, has six floors and a height of 76 meters.
+        There are 255 steps to the top. A demanding climb, that will be rewarded with a 360 degree view over the city.</string>
+    <string name="info_dom_luis">Dom Luis I Bridge\n\n
+        The grand Luís I Bridge was designed by Teófilo Seyrig, who was a disciple of the famous French engineer Gustave Eiffel.
+        It was inaugurated in 1886. It\'s composed of two overlapping wrought iron decks.
+        It is 395 meters long and 8 wide, and the arch remains the world\'s longest spanning wrought iron arch. </string>
+    <string name="info_avenida_dos_aliados">Avenida dos Aliados\n\n
+        Aliados Avenue, which is marked on the North top by the Porto City Hall building, is known as the "living room" of the city,
+        by the magnificence of its architectural heritage but also for its central character - is the home of the homonymous metro station.
+        It is, par excellence, where the inhabitants of Porto meet to celebrate special moments, such as the night of S. João,
+        the New Year celebrations or whenever the main club of the city, Futebol Clube do Porto, wins one important title.
+        It is composed of granite buildings, huge and crowned skylights, domes and pinnacles. In the large central plaque,
+        comes alive the statue of the Portuguese writer Almeida Garrett and is worth mentioning a water mirror.</string>
+    <string name="info_lello_bookshop">Lello Bookshop\n\n
+        Address:\n
+        Rua das Carmelitas 144,\n
+        4050-161 Porto\n\n
+        Schedule:\n
+        Monday to Friday:\n
+        10h30 to 19h30\n
+        Saturday:\n
+        10h00 to 19h00\n
+        To photograph the space from Monday to Friday:\n
+        9h00 to 10h00.\n
+        As the bookshop is currently closed at this time, it is necessary to knock on the door.\n\n
+        Located at Rua das Carmelitas, the Lello Bookshop was considered the third most beautiful bookshop in the world by the British newspaper “The Guardian”.
+        It was inaugurated in 1906 and it was first called Chardron. This name, which is still on the façade, was the name of the publisher that Lello brothers bought along with the building.
+        It is known for its staircase in the center of the bookshop that was considered to be the first example of the use of reinforced concrete in Portugal.</string>
+    <string name="info_house_of_music">House of Music\n\n
+        Address:\n
+        Avenida da Boavista, 604-610,\n
+        4149-071 Porto\n\n
+        Schedule:\n
+        Building, store and box office\n
+        Monday to Saturday:\n
+        10h00 to 19h00.\n
+        Sunday and holidays:\n
+        10h00 to 18h00.\n
+        On days with show, the closure is half an hour after the start of the show.\n
+        Restaurant\n
+        Monday to Thrusday:\n
+        12h30 to 15h00 and 19h30 to 23h00.\n
+        Friday to Saturday:\n
+        12h30 to 15h00 and 19h30 to 0h00.\n
+        On concert night the bar closes at 1h00.\n\n
+        Price:\n
+        Guided visit: 3,00€ to 7,50€.\n\n
+        The House of Music is the first building in Portugal exclusively dedicated to music and was designed as part of Porto’s project for  European Capital of Culture in 2001.
+        It was designed by the Dutch architect Rem Koolhaas and opened in 2005.
+        It is a center for the promotion of the national and international music scene, and features an eclectic programming, including several free shows.
+        It offers guided tours for different audiences. For about an hour, visitors can be led by a guide who will explain how the architecture,
+        functionalities and artistic programming all relate to each other. You can choose between regular daily visits - in Portuguese and English,
+        and visits custom-designed for your group and available in multiple languages and by appointment.
+        The sightseeing tour allows visitors to explore the building in a relaxed and seductive atmosphere,
+        which includes in the end a glass of Porto wine or a visit backstage that will give you an idea of the daily dynamics of preparing concerts.</string>
+    <string name="info_castelo_do_queijo">Castelo do Queijo\n\n
+        Address:\n
+        Praça Gonçalves Zarco,\n
+        Porto\n\n
+        Schedule:\n
+        Winter\n
+        Tuesday to Sunday:\n
+        13h00 to 17h00.\n
+        Summer\n
+        Tuesday to Sunday:\n
+        13h00 to 18h00.\n\n
+        Price:\n
+        Access to the fort: 0,50€\n\n
+        Cheese Castle is the popular name by which everyone knows the Fort São Francisco Xavier.
+        Why? It was built in the seventeenth century to prevent incursions by pirates from North Africa.
+        This former defensive fortification was built where there was a huge rounded stone that resembled a wheel of cheese.
+        Cheese Castle also designates the beach near the fort. The small beach is about 140 meters long and is dominated by rocky outcrops.</string>
+    <string name="info_capela_das_almas">Capela das Almas\n\n
+        Address:\n
+        Rua de Santa Catarina 428, 4000-444 Porto, Portugalia\n\n
+        Capela das Almas (literally, the Chapel of Souls) is located in the vicinity of the Carmo Church in Porto.
+        It is often referred to as the Chapel of Santa Catarina, and it is a definite must-visit for holidaymakers of Porto.
+        The exterior walls of the edifice are virtually entirely covered with blue and white ceramic tiles which depict scenes
+        like the Death of Saint Francis of Assisi and the Martyrdom of Santa Catarina (the chapel being dedicated to Santa Catarina).
+        The tile work was realized in the first half of the 20th century (1929) by Eduardo Leite,
+        and what is worth noting in this respect is the artist splendidly mimicked the classic style of the 18th century,
+        following closely the guidelines of the trend. The stained glass windows of the facade are the work of Amandio Silva, realized in the 19th century.</string>
+    <string name="info_world_of_discoveries">World of Discoveries. Interactive Museum and Theme Park\n\n
+        Address:\n
+        Rua de Miragaia,\n
+        4050-387 Porto\n\n
+        Schedule:\n
+        Monday to Friday:\n
+        10h00 to 18h00.\n
+        Saturday to Sunday:\n
+        10h00 to 19h00.\n\n
+        Price:\n
+        Regular ticket: 14,00€\n
+        Pensioners and students: 11,00€\n
+        Children between 4 and 12 years-old: 8,00€\n
+        Schools: 6,00€ (per person)\n
+        Children until 3 years-old: Free\n\n
+        Housed inside the old warehouses of Real Companhia Velha in Miragaia,
+        the World of Discoveries - Interactive Museum and Theme Park is a museum dedicated to the Portuguese Discoveries,
+        where visitors can step into the shoes of the Portuguese navigators who crossed the oceans to reach an unknown world.
+        In a navigable area with small boat replicas the sea routes pioneered by the Portuguese have been recreated,
+        with routes that cross through China, Japan, Indonesia, India, North Africa and Brazil.</string>
+    <string name="info_porto_city_park">Porto City Park\n\n
+        Address:\n
+        Avenida da Boavista,\n
+        4781 - 4100 121 Porto\n\n
+        Situated in one of the largest parks in Northern Portugal the "Parque da Cidade" where families meet at weekends is very busy.
+        A walk through it will help you identify  different species of plants and trees which you could see during your stay in Porto.</string>
+    <string name="info_praia_da_luz">Praia da Luz\n\n
+        Address:\n
+        Rua Coronel Raul Peres,\n
+        Porto 4150-633, Portugal\n\n
+        Praia da Luz, in Foz do Douro, is a very cool beach, which is easy to access on foot and has free parking and a restaurant perched over the beach, just like a window on to the sea.</string>
+    <string name="info_fortaleza_de_sao_joao">Fortaleza de Sao Joao da Foz\n\n
+        Address:\n
+        Esplanada Castelo,\n
+        Porto 4150-196, Portugal\n\n
+        Price: Free\n\n
+        The fortress was built at the end of the sixteenth century to protect the coast and the Douro entrance.
+        Modern strongholds were added (sec. XVII) to the original structure of this fine example of military architecture
+        and the access gate to the fort (18th century). It now hosts the Delegação Regional do Porto do Instituto de Defesa Nacional
+        (Regional Office of the National Defense Institute. It has been listed as a building of public interest since 6 June 1967.</string>
+    <string name="info_farol_de_felgueiras">Farol de Felgueiras\n\n
+        Address:\n
+        Avenida Dom Carlos I,\n
+        Porto 4150-190, Portugal\n\n
+        The Farolim of Felgueiras or Lighthouse of Felgueiras on the right bank of the Douro River,
+        is a Portuguese lighthouse that is located at the tip of the jetty of the same name, in the parish of Foz do Douro, City of Porto .
+        This is a tower hexagonal in masonry of granite apparent, with ten meters high.
+        It has red balcony and lantern, and a small annex building with plastered walls and painted white.</string>
+
+    <string name="info_club_musica_80">Club Musica 80’\n\n
+        Address:\n
+        Rua da Restauracao 39,\n
+        Porto 4050-503, Portugal\n\n
+        This space is, as the name implies, a place of fun where you can recall the great sounds of the 80s.
+        Decorated in shades of black and blue, and intimate setting, silver columns and mirrors show without a doubt that there is a certain luxury,
+        but without baroque touches. It is ideal for pleasant conversations interspersed with moments of dancing to the best music site. </string>
+    <string name="info_twiggy_events_pub">Twiggy Events Pub\n\n
+        Address:\n
+        Rua do Bolhao 193,\n
+        Porto 4000-111, Portugal\n\n
+        Opening hours:\n
+        22.00-04.00\n\n
+        Good local in Porto with live music, good drinks, good Porto wine. Live music all days and saturday with band. Music type: latin and world music to dance .</string>
+    <string name="info_cave_45"><![CDATA[Cave 45\n\n
+        Address:\n
+        Rua das Oliveiras 45,\n
+        Porto 4050-449, Portugal\n\n
+        Opening hours:\n
+        Sunday:	Closed\n
+        Monday:	Closed\n
+        Thuesday: Closed\n
+        Wednesday: 22:00–04:00\n
+        Thursday: 22:00–04:00\n
+        Friday:	22:00–04:00\n
+        Saturday: 22:00–04:00\n\n
+        Before CAVE 45 there was not one bar in Porto solely dedicated to hard & pure ROCK - without any concession to electronic music, pop music or comercial music.
+        As the monster created by Dr. Frankenstein, CAVE 45 is a monster composed by different parts, taken by this monster called ROCK, be it Garage, Hardcore, Metal, Punk, Rockabilly, Stoner …
+        And what a better place for underground music than a basement?
+        Besides the basement ("cave" in portuguese) itself CAVE 45 is composed by a ground floor.
+        The ground floor is a bar with no dj\'s - the music is chosen by whoever is working at the bar.
+        You can seat down, have a chat and a drink without being annoyed by extremely loud music, because a bar is not a disco.
+        This space is open from wednesday till saturday.
+        The basement ("the cave") is a bigger place, designed for concerts and parties, with walls painted by artists and tattooists chosen by us.
+        This space is open only in weekend nights or when there are concerts being held.
+    ]]></string>
+    <string name="info_boulevard">Boulevard\n\n
+        Address:\n
+        Avenida dos Aliados 62,\n
+        Porto 4000-064, Portugal\n\n
+        Open only on Saturay.\n
+        Boulevard Aliados is a club located in the heart of Oporto\'s downtown.
+        With a great view over the Avenida dos Aliados, Boulevard is one of the best places to dance, to meet beautiful people and have amazing cocktails.</string>
+    <string name="info_oporto_dancehall">Oporto Dancehall\n\n
+        Address:\n
+        Mercado Ferreira Borges,\n
+        Porto 4050-252, Portugal\n\n
+        Porto Dancehall is the best dancehall party in Portugal. Full of good music, nice people, in the one of the best places in Porto.</string>
+
+    <string name="info_sandeira_do_porto">A Sandeira do Porto\n\n
+        Address:\n
+        Rua dos Caldeireiros 85,\n
+        Porto 4050-140, Portugal\n\n
+        Opening hours:\n
+        Mon - Sat 11:00 - 00:00\n\n
+        Cuisine: European, Portuguese, Soups, Vegetarian Friendly, Vegan Options\n\n
+        #14 of 1,443 Restaurants in Porto</string>
+    <string name="info_nata_lisboa_catarina">Nata Lisboa\n\n
+        Address:\n
+        Rua de Santa Catarina 499,\n
+        Porto 4000-452, Portugal\n\n
+        Opening hours:\n
+        Sun 09:30 - 19:30\n
+        Mon - Fri 09:00 - 19:30\n
+        Sat 09:00 - 20:00\n\n
+        Cuisine: Cafe, European, Portuguese, Vegetarian Friendly\n\n
+        #1 of 29 Coffee &amp; Tea in Porto</string>
+    <string name="info_nata_lisboa_flores">Nata Lisboa\n\n
+        Address:\n
+        Rua Flores 291,\n
+        Porto 4050-267, Portugal\n\n
+        Cuisine: Cafe, European, Portuguese, Vegetarian Friendly\n\n
+        THE WORLD NEEEDS NATA is our slogan! We sell Pastel de NATA, one of the most tipical pastry in Portugal, it is sold warm and crunchy! Visit us, you will not regret!\n\n
+        #1 of 41 Dessert in Porto</string>
+    <string name="info_la_copa">La Copa\n\n
+        Address:\n
+        Avenida Rodrigues de Freitas 366,\n
+        Porto 4000-419, Portugal\n\n
+        Opening hours:\n
+        Tue - Sun 12:00 - 00:00\n\n
+        Cuisine: Italian, Gluten Free Options\n\n
+        #4 of 41 Dessert in Porto
+    </string>
+    <string name="info_miss_pavlova">Miss Pavlova\n\n
+        Address:\n
+        Rua do Almada 13,\n
+        Porto 4050-036, Portugal\n\n
+        Opening hours:\n
+        Sun 14:30 - 19:00\n
+        Tue - Sat 12:00 - 19:30\n\n
+        Cuisine: Cafe, Desserts\n\n
+        #2 of 29 Coffee &amp; Tea in Porto</string>
+    <string name="info_praia_da_luz_cafe">Praia da Luz Restaurant\n\n
+        Address:\n
+        Rua Coronel Raul Peres 93, Porto 4150-633, Portugal\n\n
+        Opening hours:\n
+        Sun - Sat 09:00 - 02:00\n\n
+        Cuisine: Bar, Mediterranean, European, Portuguese, International\n\n
+        #1,213 of 6,518 Restaurants in Northern Portugal</string>
+    <string name="info_tentacoes_no_prato">Tentacoes no Prato\n\n
+        Address:\n
+        Rua Senhora da Luz 97,\n
+        Porto 4150-696, Portugal\n\n
+        Opening hours:\n
+        Tue - Sun 12:30 - 15:00\n
+        Tue - Sat 19:00 - 22:00\n\n
+        Cuisin: European, Portuguese, Mediterranean\n\n
+        #63 of 1,443 Restaurants in Porto</string>
+    <string name="info_chocolataria_das_flores">Chocolataria das Flores\n\n
+        Address:\n
+        Rua Flores 121,\n
+        Porto 4050-266, Portugal\n\n
+        Opening hours:\n
+        Mon - Sat 09:30 - 19:00\n\n
+        Cuisine: Cafe, Chocolate, Cake, Desserts\n\n
+        #5 of 29 Coffee &amp; Tea in Porto</string>
+
+
+</resources>

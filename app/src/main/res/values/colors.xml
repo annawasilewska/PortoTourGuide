@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF9800</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="orange_light">#FFCA28</color>
+
+    <color name="fontMainName">#000000</color>
+
+    <!-- Background color for the numbers category -->
+    <color name="category_center">#FFF59D</color>
+
+    <!-- Background color for the family members category -->
+    <color name="category_shore">#64B5F6</color>
+
+    <!-- Background color for the colors category -->
+    <color name="category_food">#81C784</color>
+
+    <!-- Background color for the phrases category -->
+    <color name="category_dance">#B39DDB</color>
+</resources>

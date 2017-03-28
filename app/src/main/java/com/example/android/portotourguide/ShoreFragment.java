@@ -29,11 +29,11 @@ public class ShoreFragment extends Fragment {
         // Create an arrayList of words
         final ArrayList<PlaceToVisit> placeToVisit = new ArrayList<PlaceToVisit>();
 
-        placeToVisit.add(new PlaceToVisit(getString(R.string.castelo_do_queijo), getString(R.string.address_castelo_do_queijo), getString(R.string.info_castelo_do_queijo), R.drawable.dom_luis));
-        placeToVisit.add(new PlaceToVisit(getString(R.string.porto_city_park), getString(R.string.address_porto_city_park), getString(R.string.info_porto_city_park), R.drawable.dom_luis));
-        placeToVisit.add(new PlaceToVisit(getString(R.string.praia_da_luz), getString(R.string.address_praia_da_luz), getString(R.string.info_praia_da_luz), R.drawable.dom_luis));
-        placeToVisit.add(new PlaceToVisit(getString(R.string.fortaleza_de_sao_joao), getString(R.string.address_fortaleza_de_sao_joao), getString(R.string.info_fortaleza_de_sao_joao), R.drawable.dom_luis));
-        placeToVisit.add(new PlaceToVisit(getString(R.string.farol_de_felgueiras), getString(R.string.address_farol_de_felgueiras), getString(R.string.info_farol_de_felgueiras), R.drawable.dom_luis));
+        placeToVisit.add(new PlaceToVisit(getString(R.string.castelo_do_queijo), getString(R.string.address_castelo_do_queijo), getString(R.string.info_castelo_do_queijo), R.drawable.castelo_do_queijo));
+        placeToVisit.add(new PlaceToVisit(getString(R.string.porto_city_park), getString(R.string.address_porto_city_park), getString(R.string.info_porto_city_park), R.drawable.parque_de_cidade));
+        placeToVisit.add(new PlaceToVisit(getString(R.string.praia_da_luz), getString(R.string.address_praia_da_luz), getString(R.string.info_praia_da_luz), R.drawable.praia_da_luz));
+        placeToVisit.add(new PlaceToVisit(getString(R.string.fortaleza_de_sao_joao), getString(R.string.address_fortaleza_de_sao_joao), getString(R.string.info_fortaleza_de_sao_joao), R.drawable.fortaleza_sao_joao));
+        placeToVisit.add(new PlaceToVisit(getString(R.string.farol_de_felgueiras), getString(R.string.address_farol_de_felgueiras), getString(R.string.info_farol_de_felgueiras), R.drawable.farol));
 
         // Create an {@link WordAdapter}, whose data source is a list of {@link Word}s. The
         // adapter knows how to create list items for each item in the list.

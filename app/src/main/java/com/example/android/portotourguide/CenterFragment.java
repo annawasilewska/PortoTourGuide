@@ -30,21 +30,21 @@ public class CenterFragment extends Fragment {
         // Create an arrayList of words
         final ArrayList<PlaceToVisit> placeToVisit = new ArrayList<PlaceToVisit>();
 
-        placeToVisit.add(new PlaceToVisit(getString(R.string.monumento_garrett), getString(R.string.address_monumento_garrett), getString(R.string.info_monumento_garrett), R.drawable.dom_luis));
-        placeToVisit.add(new PlaceToVisit(getString(R.string.cathedral_porto), getString(R.string.address_cathedral_porto), getString(R.string.info_cathedral_porto), R.drawable.dom_luis));
-        placeToVisit.add(new PlaceToVisit(getString(R.string.city_hall), getString(R.string.address_city_hall), getString(R.string.info_city_hall), R.drawable.dom_luis));
-        placeToVisit.add(new PlaceToVisit(getString(R.string.stock_exchange_palace), getString(R.string.address_stock_exchange_palace), getString(R.string.info_stock_exchange_palace), R.drawable.dom_luis));
-        placeToVisit.add(new PlaceToVisit(getString(R.string.bolhao_market), getString(R.string.address_bolhao_market), getString(R.string.info_bolhao_market), R.drawable.dom_luis));
-        placeToVisit.add(new PlaceToVisit(getString(R.string.crystal_palace), getString(R.string.address_crystal_palace), getString(R.string.info_crystal_palace), R.drawable.dom_luis));
-        placeToVisit.add(new PlaceToVisit(getString(R.string.sao_bento_station), getString(R.string.address_sao_bento_station), getString(R.string.info_sao_bento_station), R.drawable.dom_luis));
-        placeToVisit.add(new PlaceToVisit(getString(R.string.santa_catarina_street), getString(R.string.address_santa_catarina_street), getString(R.string.info_santa_catarina_street), R.drawable.dom_luis));
-        placeToVisit.add(new PlaceToVisit(getString(R.string.clerigos_tower), getString(R.string.address_clerigos_tower), getString(R.string.info_clerigos_tower), R.drawable.dom_luis));
+        placeToVisit.add(new PlaceToVisit(getString(R.string.monumento_garrett), getString(R.string.address_monumento_garrett), getString(R.string.info_monumento_garrett), R.drawable.monument_to_alemida_garrett));
+        placeToVisit.add(new PlaceToVisit(getString(R.string.cathedral_porto), getString(R.string.address_cathedral_porto), getString(R.string.info_cathedral_porto), R.drawable.cathedral_of_porto));
+        placeToVisit.add(new PlaceToVisit(getString(R.string.city_hall), getString(R.string.address_city_hall), getString(R.string.info_city_hall), R.drawable.city_hall));
+        placeToVisit.add(new PlaceToVisit(getString(R.string.stock_exchange_palace), getString(R.string.address_stock_exchange_palace), getString(R.string.info_stock_exchange_palace), R.drawable.stock_exchange_palace));
+        placeToVisit.add(new PlaceToVisit(getString(R.string.bolhao_market), getString(R.string.address_bolhao_market), getString(R.string.info_bolhao_market), R.drawable.bolhao_market));
+        placeToVisit.add(new PlaceToVisit(getString(R.string.crystal_palace), getString(R.string.address_crystal_palace), getString(R.string.info_crystal_palace), R.drawable.crystal_palace));
+        placeToVisit.add(new PlaceToVisit(getString(R.string.sao_bento_station), getString(R.string.address_sao_bento_station), getString(R.string.info_sao_bento_station), R.drawable.sao_bento_railway_station));
+        placeToVisit.add(new PlaceToVisit(getString(R.string.santa_catarina_street), getString(R.string.address_santa_catarina_street), getString(R.string.info_santa_catarina_street), R.drawable.santa_catarina_street));
+        placeToVisit.add(new PlaceToVisit(getString(R.string.clerigos_tower), getString(R.string.address_clerigos_tower), getString(R.string.info_clerigos_tower), R.drawable.clerigos_tower));
         placeToVisit.add(new PlaceToVisit(getString(R.string.dom_luis), getString(R.string.address_dom_luis), getString(R.string.info_dom_luis), R.drawable.dom_luis));
-        placeToVisit.add(new PlaceToVisit(getString(R.string.avenida_dos_aliados), getString(R.string.address_avenida_dos_aliados), getString(R.string.info_avenida_dos_aliados), R.drawable.dom_luis));
-        placeToVisit.add(new PlaceToVisit(getString(R.string.lello_bookshop), getString(R.string.address_lello_bookshop), getString(R.string.info_lello_bookshop), R.drawable.dom_luis));
-        placeToVisit.add(new PlaceToVisit(getString(R.string.house_of_music), getString(R.string.address_house_of_music), getString(R.string.info_house_of_music), R.drawable.dom_luis));
-        placeToVisit.add(new PlaceToVisit(getString(R.string.capela_das_almas), getString(R.string.address_capela_das_almas), getString(R.string.info_capela_das_almas), R.drawable.dom_luis));
-        placeToVisit.add(new PlaceToVisit(getString(R.string.world_of_discoveries), getString(R.string.address_world_of_discoveries), getString(R.string.info_world_of_discoveries), R.drawable.dom_luis));
+        placeToVisit.add(new PlaceToVisit(getString(R.string.avenida_dos_aliados), getString(R.string.address_avenida_dos_aliados), getString(R.string.info_avenida_dos_aliados), R.drawable.avenida_dos_aliados));
+        placeToVisit.add(new PlaceToVisit(getString(R.string.lello_bookshop), getString(R.string.address_lello_bookshop), getString(R.string.info_lello_bookshop), R.drawable.lello_bookshop));
+        placeToVisit.add(new PlaceToVisit(getString(R.string.house_of_music), getString(R.string.address_house_of_music), getString(R.string.info_house_of_music), R.drawable.house_of_music));
+        placeToVisit.add(new PlaceToVisit(getString(R.string.capela_das_almas), getString(R.string.address_capela_das_almas), getString(R.string.info_capela_das_almas), R.drawable.capela_das_almas));
+        placeToVisit.add(new PlaceToVisit(getString(R.string.world_of_discoveries), getString(R.string.address_world_of_discoveries), getString(R.string.info_world_of_discoveries), R.drawable.world_of_discoveries_oporto));
 
         // Create an {@link WordAdapter}, whose data source is a list of {@link Word}s. The
         // adapter knows how to create list items for each item in the list.

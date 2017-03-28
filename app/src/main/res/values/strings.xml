@@ -10,6 +10,15 @@
     <!-- Button -->
     <string name="map">Map</string>
 
+    <!-- Menu items -->
+    <string name="about">About</string>
+    <string name="about_alert">This app was created by Anna Wasilewska.\n
+    I hope you like it :).\n\n
+    Version 1.0\n
+    Date: 03.2017</string>
+    <string name="about_alert_button1">I love it!</string>
+    <string name="about_alert_butto2">Awesome!</string>
+
     <!-- Names -->
     <string name="monumento_garrett">Monumento Almeida Garrett</string>
     <string name="cathedral_porto">Cathedral of Porto</string>

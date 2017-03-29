@@ -27,7 +27,7 @@ public class ShoreFragment extends Fragment {
         View rootView = inflater.inflate(R.layout.places_list, container, false);
 
         // Create an arrayList of words
-        final ArrayList<PlaceToVisit> placeToVisit = new ArrayList<PlaceToVisit>();
+        final ArrayList<PlaceToVisit> placeToVisit = new ArrayList<>();
 
         placeToVisit.add(new PlaceToVisit(getString(R.string.castelo_do_queijo), getString(R.string.address_castelo_do_queijo), getString(R.string.info_castelo_do_queijo), R.drawable.castelo_do_queijo));
         placeToVisit.add(new PlaceToVisit(getString(R.string.porto_city_park), getString(R.string.address_porto_city_park), getString(R.string.info_porto_city_park), R.drawable.parque_de_cidade));

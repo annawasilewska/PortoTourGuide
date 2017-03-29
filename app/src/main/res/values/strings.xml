@@ -45,6 +45,7 @@
     <string name="twiggy_events_pub">Twiggy Events Pub</string>
     <string name="cave_45">Cave 45</string>
     <string name="boulevard">Boulevard</string>
+    <string name="hot_five_jazz_and_clues_club">Hot Five Jazz And Blues Club</string>
 
     <string name="sandeira_do_porto">A Sandeira do Porto</string>
     <string name="nata_lisboa_catarina">Nata Lisboa Rua de Santa Catarina</string>
@@ -54,6 +55,10 @@
     <string name="praia_da_luz_cafe">Praia da Luz Restaurant</string>
     <string name="tentacoes_no_prato">Tentacoes no Prato</string>
     <string name="chocolataria_das_flores">Chocolataria das Flores</string>
+    <string name="grahams_port_lodge">Graham\'s Port Lodge</string>
+    <string name="porto_augustos">Porto Augusto\'s</string>
+    <string name="quinta_dos_corvos">Quinta dos Corvos</string>
+    <string name="taylors_port">Taylor\'s Port</string>
 
     <!-- Addresses -->
     <string name="address_monumento_garrett">Av. dos Aliados 291,\n4000–035 Porto, Portugal</string>
@@ -81,6 +86,7 @@
     <string name="address_twiggy_events_pub">Rua do Bolhao 193, \nPorto 4000–111, Portugal</string>
     <string name="address_cave_45">Rua Oliveiras 45, \nPorto 4050–449, Portugal</string>
     <string name="address_boulevard">Avenida dos Aliados 62, \nPorto 4000–064, Portugal</string>
+    <string name="address_hot_five_jazz_and_clues_club">Largo Actor Dias 51,\nPorto 4000–192, Portugal</string>
 
     <string name="address_sandeira_do_porto">Rua dos Caldeireiros 85, \nPorto 4050–140, Portugal</string>
     <string name="address_nata_lisboa_catarina">Rua de Santa Catarina 499, \nPorto 4000–452, Portugal</string>
@@ -90,6 +96,10 @@
     <string name="address_praia_da_luz_cafe">Avenida Brasil, \nFoz, Porto, Portugal</string>
     <string name="address_tentacoes_no_prato">Rua Senhora da Luz 97, \nPorto 4150–696, Portugal</string>
     <string name="address_chocolataria_das_flores">Rua Flores 121, \nPorto 4050–266, Portugal</string>
+    <string name="address_grahams_port_lodge">Rua Rei Ramiro 514,\n4400–281 Vila Nova de Gaia, Portugal</string>
+    <string name="address_porto_augustos">Rua de Franca 8–10,\nVila Nova de Gaia 4400–174, Portugal</string>
+    <string name="address_quinta_dos_corvos">R. Dom Afonso III 2,\n4400–266 Vila Nova de Gaia, Portugal</string>
+    <string name="address_taylors_port">Rua de Choupelo 250,\nVila Nova de Gaia 4400–088, Portugal</string>
 
     <!-- Details about objects -->
     <string name="info_monumento_garrett"> <![CDATA[ <b>Monument to Almeida Garrett</b><br/><br/>
@@ -182,7 +192,7 @@
         9h00 to 19h00.<br/><br/>
         <b>Price:</b><br/>
         Access to the church: Free.<br/>
-        Regular ticket to access the tower + exposition: 3,00€<br/>
+        Regular ticket to access the tower + exposition: 4,00€<br/>
         Porto card to access the tower: 1,50€<br/>
         School visits to access the tower: 1,50€ (per person)<br/>
         Clergy, scouts and children under 10 years-old to access the tower: Free<br/><br/>
@@ -212,6 +222,7 @@
         10h00 to 19h00<br/>
         To photograph the space from Monday to Friday:<br/>
         9h00 to 10h00.<br/><br/>
+        <b>Price:</b> 4 Euro<br/><br/>
         As the bookshop is currently closed at this time, it is necessary to knock on the door.<br/><br/>
         Located at Rua das Carmelitas, the Lello Bookshop was considered the third most beautiful bookshop in the world by the British newspaper “The Guardian”.
         It was inaugurated in 1906 and it was first called Chardron. This name, which is still on the façade, was the name of the publisher that Lello brothers bought along with the building.
@@ -363,6 +374,20 @@
         <b>Opening hours</b>: Open only on Saturay.<br/><br/>
         Boulevard Aliados is a club located in the heart of Oporto\'s downtown.
         With a great view over the Avenida dos Aliados, Boulevard is one of the best places to dance, to meet beautiful people and have amazing cocktails.]]></string>
+    <string name="info_hot_five_jazz_and_clues_club"><![CDATA[<b>Hot Five Jazz And Blues Club</b><br/><br/>
+        <b>Address:</b><br/>
+        Largo Actor Dias 51,<br/>
+        Porto 4000-192, Portugal<br/><br/>
+        <b>Opening hours:</b><br/>
+        Monday: Closed<br/>
+        Tuesday: Closed<br/>
+        Wednesday: 22:00 - 03:00<br/>
+        Thursday: 22:00 - 03:00<br/>
+        Friday: 22:00 - 04:00<br/>
+        Saturday: 22:00 - 04:00<br/>
+        Sunday: Closed<br/><br/>
+        One of the city\'s best jazz clubs, Hot Five offers a great choice of live jazz and blues amid a buzzing atmosphere close to the city center.
+    ]]></string>
 
     <string name="info_sandeira_do_porto"><![CDATA[<b>A Sandeira do Porto</b><br/><br/>
         <b>Address:</b><br/>
@@ -431,6 +456,40 @@
         Mon - Sat 09:30 - 19:00<br/><br/>
         <b>Cuisine:</b> Cafe, Chocolate, Cake, Desserts<br/><br/>
         #5 of 29 Coffee &amp; Tea in Porto]]></string>
-
-
+    <string name="info_grahams_port_lodge"><![CDATA[<b>Graham\'s Port Lodge</b><br/><br/>
+        <b>Address:</b><br/>
+        Rua Rei Ramiro 514,<br/>
+        4400-281 Vila Nova de Gaia, Portugal<br/><br/>
+        <b>Opening hours:</b><br/>
+        Sun - Sat 09:30 - 18:00<br/><br/>
+        <b>Price:</b> Visits (including tasting) from €12.<br/><br/>
+        Originally built in 1890, Graham\'s Lodge was renovated in 2012 and now offers tours (in several languages) and Port tastings.<br/><br/>
+        #2 of 68 things to do in Vila Nova de Gaia]]>
+    </string>
+    <string name="info_porto_augustos"><![CDATA[<b>Porto Augusto\'s</b><br/><br/>
+        <b>Address:</b><br/>
+        Rua de França,10,<br/>
+        4400-174 Vila Nova de Gaia, Portugal<br/><br/>
+        <b>Opening hours:</b><br/>
+        Mon - Sun 11:00 - 18:00<br/><br/>
+        <b>Price:</b> 5 Euro<br/><br/>
+    #3 of 68 things to do in Vila Nova de Gaia]]>
+    </string>
+    <string name="info_quinta_dos_corvos"><![CDATA[<b>Quinta dos Corvos</b><br/><br/>
+        <b>Address:</b><br/>
+        R. Dom Afonso III 2,<br/>
+        4400-266 Vila Nova de Gaia, Portugalia<br/><br/>
+        #4 of 68 things to do in Vila Nova de Gaia
+    ]]></string>
+    <string name="info_taylors_port"><![CDATA[<b>Taylor\'s Port</b><br/><br/>
+        <b>Address:</b><br/>
+        Rua de Choupelo 250,<br/>
+        Vila Nova de Gaia 4400-088, Portugal<br/><br/>
+        <b>Opening hours:</b><br/>
+        Mon - Fri 10:00 - 18:00<br/>
+        Sat - Sun 10:00 - 17:00<br/><br/>
+        <b>Price</b> €12 (For the audio tour and tasting per person)<br/><br/>
+        Taylor’s, accepted by most wine authorities to be the greatest of all port shippers invites you to an exciting and informative tour of its famous lodges at Vila Nova de Gaia.<br/><br/>
+        #6 of 68 things to do in Vila Nova de Gaia]]>
+    </string>
 </resources>

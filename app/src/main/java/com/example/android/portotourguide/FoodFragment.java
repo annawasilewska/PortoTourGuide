@@ -27,7 +27,7 @@ public class FoodFragment extends Fragment {
         View rootView = inflater.inflate(R.layout.places_list, container, false);
 
         // Create an arrayList of words
-        final ArrayList<PlaceToVisit> placeToVisit = new ArrayList<PlaceToVisit>();
+        final ArrayList<PlaceToVisit> placeToVisit = new ArrayList<>();
 
         placeToVisit.add(new PlaceToVisit(getString(R.string.sandeira_do_porto), getString(R.string.address_sandeira_do_porto), getString(R.string.info_sandeira_do_porto)));
         placeToVisit.add(new PlaceToVisit(getString(R.string.nata_lisboa_catarina), getString(R.string.address_nata_lisboa_catarina), getString(R.string.info_nata_lisboa_catarina)));
@@ -37,6 +37,10 @@ public class FoodFragment extends Fragment {
         placeToVisit.add(new PlaceToVisit(getString(R.string.praia_da_luz_cafe), getString(R.string.address_praia_da_luz_cafe), getString(R.string.info_praia_da_luz_cafe)));
         placeToVisit.add(new PlaceToVisit(getString(R.string.tentacoes_no_prato), getString(R.string.address_tentacoes_no_prato), getString(R.string.info_tentacoes_no_prato)));
         placeToVisit.add(new PlaceToVisit(getString(R.string.chocolataria_das_flores), getString(R.string.address_chocolataria_das_flores), getString(R.string.info_chocolataria_das_flores)));
+        placeToVisit.add(new PlaceToVisit(getString(R.string.grahams_port_lodge), getString(R.string.address_grahams_port_lodge), getString(R.string.info_grahams_port_lodge)));
+        placeToVisit.add(new PlaceToVisit(getString(R.string.porto_augustos), getString(R.string.address_porto_augustos), getString(R.string.info_porto_augustos)));
+        placeToVisit.add(new PlaceToVisit(getString(R.string.quinta_dos_corvos), getString(R.string.address_quinta_dos_corvos), getString(R.string.info_quinta_dos_corvos)));
+        placeToVisit.add(new PlaceToVisit(getString(R.string.taylors_port), getString(R.string.address_taylors_port), getString(R.string.info_taylors_port)));
 
         // Create an {@link WordAdapter}, whose data source is a list of {@link Word}s. The
         // adapter knows how to create list items for each item in the list.

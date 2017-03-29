@@ -27,12 +27,13 @@ public class DanceFragment extends Fragment {
         View rootView = inflater.inflate(R.layout.places_list, container, false);
 
         // Create an arrayList of words
-        final ArrayList<PlaceToVisit> placeToVisit = new ArrayList<PlaceToVisit>();
+        final ArrayList<PlaceToVisit> placeToVisit = new ArrayList<>();
 
         placeToVisit.add(new PlaceToVisit(getString(R.string.club_musica_80), getString(R.string.address_club_musica), getString(R.string.info_club_musica_80)));
         placeToVisit.add(new PlaceToVisit(getString(R.string.twiggy_events_pub), getString(R.string.address_twiggy_events_pub), getString(R.string.info_twiggy_events_pub)));
         placeToVisit.add(new PlaceToVisit(getString(R.string.cave_45), getString(R.string.address_cave_45), getString(R.string.info_cave_45)));
         placeToVisit.add(new PlaceToVisit(getString(R.string.boulevard), getString(R.string.address_boulevard), getString(R.string.info_boulevard)));
+        placeToVisit.add(new PlaceToVisit(getString(R.string.hot_five_jazz_and_clues_club), getString(R.string.address_hot_five_jazz_and_clues_club), getString(R.string.info_hot_five_jazz_and_clues_club)));
 
         // Create an {@link WordAdapter}, whose data source is a list of {@link Word}s. The
         // adapter knows how to create list items for each item in the list.

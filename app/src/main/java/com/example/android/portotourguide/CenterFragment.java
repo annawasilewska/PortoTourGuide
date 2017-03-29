@@ -28,7 +28,7 @@ public class CenterFragment extends Fragment {
         View rootView = inflater.inflate(R.layout.places_list, container, false);
 
         // Create an arrayList of words
-        final ArrayList<PlaceToVisit> placeToVisit = new ArrayList<PlaceToVisit>();
+        final ArrayList<PlaceToVisit> placeToVisit = new ArrayList<>();
 
         placeToVisit.add(new PlaceToVisit(getString(R.string.monumento_garrett), getString(R.string.address_monumento_garrett), getString(R.string.info_monumento_garrett), R.drawable.monument_to_alemida_garrett));
         placeToVisit.add(new PlaceToVisit(getString(R.string.cathedral_porto), getString(R.string.address_cathedral_porto), getString(R.string.info_cathedral_porto), R.drawable.cathedral_of_porto));

@@ -10,8 +10,7 @@
     <ImageView
         android:id="@+id/image"
         android:layout_width="match_parent"
-        android:layout_height="152dp"
-        android:background="@color/orange_light"
+        android:layout_height="@dimen/image_height"
         android:scaleType="centerCrop"
         android:src="@drawable/dom_luis" />
 
@@ -19,12 +18,7 @@
         android:id="@+id/place_name"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginBottom="5dp"
-        android:layout_marginLeft="10dp"
-        android:layout_marginStart="10dp"
-        android:layout_marginTop="5dp"
-        android:textColor="@color/fontMainName"
-        android:textSize="18sp"
+        style="@style/TextViewStyle"
         android:textStyle="bold"
         tools:text="Name" />
 
@@ -32,10 +26,6 @@
         android:id="@+id/place_address"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginBottom="5dp"
-        android:layout_marginLeft="10dp"
-        android:layout_marginStart="10dp"
-        android:textColor="@color/fontMainName"
-        android:textSize="18sp"
+        style="@style/TextViewStyle"
         tools:text="Address" />
 </LinearLayout>

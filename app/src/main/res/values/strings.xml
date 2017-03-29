@@ -10,6 +10,8 @@
     <!-- Button -->
     <string name="map">Map</string>
 
+    <string name="info">Info</string>
+
     <!-- Menu items -->
     <string name="about">About</string>
     <string name="about_alert">This app was created by Anna Wasilewska.\n

@@ -17,8 +17,8 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="center_horizontal"
-            android:layout_marginBottom="20dp"
-            android:layout_marginTop="15dp"
+            android:layout_marginBottom="@dimen/button_margin_bottom"
+            android:layout_marginTop="@dimen/button_margin_top"
             android:background="@color/button"
             android:text="@string/map" />
 
@@ -26,7 +26,8 @@
             android:id="@+id/information_box"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:padding="5dp"
-            tools:text="Name" />
+            android:padding="@dimen/details_textview_padding"
+            tools:text="@string/info"
+            android:textColor="@color/black"/>
     </LinearLayout>
 </ScrollView>

@@ -1,28 +1,37 @@
 <resources>
 
-    <!-- Base application theme. -->
-    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
-        <item name="colorPrimary">@color/colorPrimary</item>
-        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
-        <item name="actionBarStyle">@style/MiwokAppBarStyle</item>
-        <item name="android:windowContentOverlay">@null</item>
-    </style>
+<!-- Base application theme. -->
+<style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+    <item name="colorPrimary">@color/colorPrimary</item>
+    <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+    <item name="actionBarStyle">@style/MiwokAppBarStyle</item>
+    <item name="android:windowContentOverlay">@null</item>
+</style>
 
-    <!-- App bar style -->
-    <style name="MiwokAppBarStyle" parent="style/Widget.AppCompat.Light.ActionBar.Solid.Inverse">
-        <!-- Remove the shadow below the app bar -->
-        <item name="elevation">0dp</item>
-    </style>
+<!-- App bar style -->
+<style name="MiwokAppBarStyle" parent="style/Widget.AppCompat.Light.ActionBar.Solid.Inverse">
+    <!-- Remove the shadow below the app bar -->
+    <item name="elevation">0dp</item>
+</style>
 
-    <!-- Style for a tab that displays a category name -->
-    <style name="CategoryTab" parent="Widget.Design.TabLayout">
-        <item name="tabIndicatorColor">@android:color/white</item>
-        <item name="tabSelectedTextColor">@android:color/white</item>
-        <item name="tabTextAppearance">@style/CategoryTabTextAppearance</item>
-    </style>
+<!-- Style for a tab that displays a category name -->
+<style name="CategoryTab" parent="Widget.Design.TabLayout">
+    <item name="tabIndicatorColor">@android:color/white</item>
+    <item name="tabSelectedTextColor">@android:color/white</item>
+    <item name="tabTextAppearance">@style/CategoryTabTextAppearance</item>
+</style>
 
-    <!-- Text appearance style for a category tab -->
-    <style name="CategoryTabTextAppearance" parent="TextAppearance.Design.Tab">
-        <item name="android:textColor">#EEEEEE</item>
+<!-- Text appearance style for a category tab -->
+<style name="CategoryTabTextAppearance" parent="TextAppearance.Design.Tab">
+    <item name="android:textColor">#EEEEEE</item>
+</style>
+
+    <!-- TextViews style -->
+    <style name="TextViewStyle">
+        <item name="android:layout_marginBottom">@dimen/textview_top_bottom_margin</item>
+        <item name="android:layout_marginLeft">@dimen/textview_left_start_margin</item>
+        <item name="android:layout_marginTop">@dimen/textview_top_bottom_margin</item>
+        <item name="android:textColor">@color/fontMainName</item>
+        <item name="android:textSize">18sp</item>
     </style>
 </resources>
